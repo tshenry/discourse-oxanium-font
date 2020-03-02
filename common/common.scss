@@ -1,0 +1,15 @@
+@font-face {
+  font-family: Oxanium;
+  src: url($oxanium-regular) format('truetype');
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: Oxanium;
+  src: url($oxanium-bold) format('truetype');
+  font-weight: 700;
+}
+
+html {
+  font-family: Oxanium, sans-serif;
+}

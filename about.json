@@ -1,0 +1,10 @@
+{
+  "name": "Oxanium Font Component",
+  "about_url": null,
+  "license_url": null,
+  "component": true,
+  "assets": {
+    "oxanium-regular": "assets/oxanium-regular.woff2",
+    "oxanium-bold": "assets/oxanium-bold.woff2"
+  }
+}
